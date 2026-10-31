@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Doomsday Countdown</string>
+    <string name="widget_description">Resizable dynamic event countdown timer widget</string>
+    <string name="channel_countdown_reminders">Countdown Reminders</string>
+    <string name="channel_countdown_desc">Notifications for upcoming countdown events and milestones</string>
+</resources>
